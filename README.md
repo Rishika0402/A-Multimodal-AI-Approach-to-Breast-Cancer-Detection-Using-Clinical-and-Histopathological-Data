@@ -32,6 +32,15 @@ This project presents a dual-model system for breast cancer detection using both
   - `/predict-image`: Accepts histopathology images and returns classification
 - **Frontend**: Simple HTML, CSS, JavaScript for image and tabular data input
 
+### 4. Tableau Dashboard (Clinical Data Visualization)
+- **Tool**: Tableau Desktop
+- **Visualizations Include**:
+  - Class distribution of malignant vs benign cases
+  - Correlation heatmap of features
+  - Interactive filters for mean radius, texture, perimeter, and more
+  - Patient-wise diagnosis insights
+- **Purpose**: To support exploratory data analysis (EDA), identify patterns, and make clinical insights more accessible to healthcare professionals
+
 ---
 📈 Results
 Model	Accuracy
